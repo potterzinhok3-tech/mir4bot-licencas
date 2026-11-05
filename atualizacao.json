@@ -1,10 +1,10 @@
 {
-  "versao": "1.0.1",
-  "url": "https://github.com/potterzinhok3-tech/mir4bot-licencas/releases/download/v1.0.1/Mir4Bot.exe",
-  "sha256": "56c8282efa6c7623ebfae27b5fac74f42c83634278442ff15e2f84da026df3da",
-  "tamanho": 76619024,
-  "notas": "Melhorias e correções.",
+  "versao": "1.0.2",
+  "url": "https://github.com/potterzinhok3-tech/mir4bot-licencas/releases/download/v1.0.2/Mir4Bot.exe",
+  "sha256": "10d308ce04d14bea9465b4956c65eb80d0415f27b8751a3ae616526c810289e0",
+  "tamanho": 76618544,
+  "notas": "Ajuste visual no topo: a licença não fica mais escondida atrás dos botões.",
   "obrigatoria": false,
-  "data": "2026-11-05T18:46:15",
-  "assinatura": "345bb199aa8215ff2b989c30c917cadbd88841e87fef30e81bca7947e4a06334514147bd5da74f337e92e1041738f8be9b020732e74044ea1da467f01cfb4b08"
+  "data": "2026-11-05T18:54:34",
+  "assinatura": "375c7e11ab4f8075499e8ae8d0ef9ad2cae067fb08f6226b7af1df41fff91750d2f54f7dd0eb93fee8c9cb94cdfeb13dffb661db831af63f4545520b563f7705"
 }
