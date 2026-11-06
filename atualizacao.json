@@ -1,10 +1,10 @@
 {
-  "versao": "1.0.3",
-  "url": "https://github.com/potterzinhok3-tech/mir4bot-licencas/releases/download/v1.0.3/Mir4Bot.exe",
-  "sha256": "bdc1284fc8d47ad7697ed59340e6cacb5a2a117b14649038b8c8720ca37e8ff6",
-  "tamanho": 56065024,
-  "notas": "versão protegida",
+  "versao": "1.1.0",
+  "url": "https://github.com/potterzinhok3-tech/mir4bot-licencas/releases/download/v1.1.0/Pixelot.exe",
+  "sha256": "82fc6668fed70b290261b7ff1295502af3edd57705d87a762be4a13c5ce3f66a",
+  "tamanho": 56217600,
+  "notas": "Pixelot 1.1.0 — grande atualização\n• Novo nome e visual reorganizado (abas roláveis)\n• Rotina por janela: cada conta roda a sua\n• Rotina Personalizada: monte e salve suas próprias sequências\n• Perfis: salvar, exportar e importar configurações\n• Pausa automática e parar sozinho por tempo ou nº de ciclos\n• Atalhos de teclado (F6 iniciar, F7 pausar, F8 parar)\n• Relatório com estatísticas em tempo real\n• Funciona com qualquer jogo ou aplicativo, não só MIR4",
   "obrigatoria": false,
-  "data": "2026-11-05T20:51:20",
-  "assinatura": "823039f24e84a90d18e40397324adbdd74f1afb0a8d2d40cfa83e66a138d95abbce1fb845323fd4c13018b6ddb30f22c63cd79bfae96753d202814d475362401"
+  "data": "2026-11-06T16:17:12",
+  "assinatura": "defb23cc787e3a8d2475ac08e39d6842b39358bffdb11a74b841181e95fc7ae6f0712c99effcd0777deabbf6afbbe1a4fd578069b2f041055d174e9c1f91ef0a"
 }
