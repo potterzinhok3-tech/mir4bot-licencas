@@ -1,10 +1,10 @@
 {
-  "versao": "1.1.1",
-  "url": "https://github.com/potterzinhok3-tech/mir4bot-licencas/releases/download/v1.1.1/Pixelot.exe",
-  "sha256": "8fbc2821bca40afa878fd92a2188b407e07c9c3a10e718084aeaddf7f1ca8d53",
-  "tamanho": 56216576,
-  "notas": "Correção da Atualização automatica",
+  "versao": "1.1.2",
+  "url": "https://github.com/potterzinhok3-tech/mir4bot-licencas/releases/download/v1.1.2/Pixelot.exe",
+  "sha256": "078d4afa2aa6c121ae4e0a1d48be56c9ec662febaf676fdc3402913b816a1e77",
+  "tamanho": 56301056,
+  "notas": "Melhorias e correções.",
   "obrigatoria": false,
-  "data": "2026-11-06T16:34:15",
-  "assinatura": "a66fe5201cdeb3c6bd3610605964963be7a7ec2c3e2b0c0284e7bb9816b9caf811030214977348d44a81e1eb9dea3774ae6ea927d4f342d23b5edc3f7e7fe406"
+  "data": "2026-11-06T17:22:23",
+  "assinatura": "824fd17a850e3938c7d3814001711f84ee58f41d822e6d94d25cc71259c15e0e0252594bbfc50f618422e63b1309b6583625575d62f59dfedee1a4d717ecb609"
 }
