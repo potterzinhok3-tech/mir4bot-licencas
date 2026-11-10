@@ -1,10 +1,10 @@
 {
-  "versao": "1.1.7",
-  "url": "https://github.com/potterzinhok3-tech/mir4bot-licencas/releases/download/v1.1.7/Pixelot.exe",
-  "sha256": "44e13fdcb43baa6dbb3ee205c385347cedcd11b5195e03684330d8f4f1f3939c",
-  "tamanho": 56382976,
-  "notas": "Mini-painel ao rodar, atalhos configuráveis, salvar/carregar sequências de movimento",
+  "versao": "1.1.8",
+  "url": "https://github.com/potterzinhok3-tech/mir4bot-licencas/releases/download/v1.1.8/Pixelot.exe",
+  "sha256": "83523956044de6d5c4f5ea88e6603e6a142516bf7dce9133e9943d24cf112287",
+  "tamanho": 56385536,
+  "notas": "Melhorias e correções.",
   "obrigatoria": false,
-  "data": "2026-11-09T16:35:06",
-  "assinatura": "18c5e083f43460923f8769839fa7fb322ca40e4d93cd2f9f88d9100a267253935374e5efb1125bcc1638ac0a33eb41e988a0164e99aa38c7dd76ad5abf5c2702"
+  "data": "2026-11-10T20:26:55",
+  "assinatura": "a3ce9c59be10c28682acb359271bbddf85717abfe0a885706e5bc4c5359831da12d43f7b6a1937dc28291cd73512a2a5f7beee639b59fa845bc9012c33c08a0c"
 }
